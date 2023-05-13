@@ -70,39 +70,39 @@ Python Identifiers: A Python identifier is a name used to identify a variable, f
 
 Python Reserved Words: The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only.
 
-    * and
-    * as
-    * assert
-    * break
-    * class
-    * continue
-    * def
-    * del
-    * elif
-    * else
-    * except
-    * False
-    * finally
-    * for
-    * from
-    * global
-    * if
-    * import
-    * in
-    * is
-    * lambda
-    * None
-    * nonlocal
-    * not
-    * or
-    * pass
-    * raise
-    * return
-    * True
-    * try
-    * while
-    * with
-    * yeld
+    and
+    as
+    assert
+    break
+    class
+    continue
+    def
+    del
+    elif
+    else
+    except
+    False
+    finally
+    for
+    from
+    global
+    if
+    import
+    in
+    is
+    lambda
+    None
+    nonlocal
+    not
+    or
+    pass
+    raise
+    return
+    True
+    try
+    while
+    with
+    yeld
 
 ## Bibliography
 
