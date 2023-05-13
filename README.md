@@ -6,6 +6,8 @@ Here we can study the basics of programming in Python.
 
 [Basic Syntax](basicsyntax.md)
 
+[Comments](comments.md)
+
 ## Table of contents - source code
 
 [Hello, World!](test.py)
