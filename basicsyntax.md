@@ -25,6 +25,43 @@ Hello, World!
 
 Python - Script Mode Programming: We can invoke the Python interpreter with a script parameter which begins the execution of the script and continues until the script is finished. When the script is finished, the interpreter is no longer active. Let us write a simple Python program in a script which is simple text file. Python files have extension .py. Type the following source code in a test.py file
 
+```python
+print ("Hello, World!")
+```
+
+We assume that you have Python interpreter path set in PATH variable. Now, let's try to run this program as follows
+
+```console
+$ python test.py
+```
+
+This produces the following result
+
+```console
+Hello, World!
+```
+
+Let us try another way to execute a Python script. Here is the modified test.py file
+
+```python
+#!/usr/bin/python
+
+print ("Hello, World!")
+```
+
+We assume that you have Python interpreter available in /usr/bin directory. Now, try to run this program as follows
+
+```console
+$ chmod +x test.py     # This is to make file executable
+$./test.py
+```
+
+This produces the following result
+
+```console
+Hello, World!
+```
+
 ## Bibliography
 
 Python - Basic Syntax. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/index.htm
