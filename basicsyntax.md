@@ -190,6 +190,12 @@ comment.
 '''
 ```
 
+This produces the following result
+
+```console
+Hello, World!
+```
+
 ## Using Blank Lines in Python Programs
 
 A line containing only whitespace, possibly with a comment, is known as a blank line and Python totally ignores it. In an interactive interpreter session, you must enter an empty physical line to terminate a multiline statement. 
