@@ -69,6 +69,7 @@ Python Identifiers: A Python identifier is a name used to identify a variable, f
     If the identifier also ends with two trailing underscores, the identifier is a language-defined special name.
 
 Python Reserved Words: The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only.
+
     * and
     * as
     * assert
