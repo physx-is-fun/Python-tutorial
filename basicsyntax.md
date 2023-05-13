@@ -62,6 +62,47 @@ This produces the following result
 Hello, World!
 ```
 
+Python Identifiers: A Python identifier is a name used to identify a variable, function, class, module or other object. An identifier starts with a letter A to Z or a to z or an underscore (_) followed by zero or more letters, underscores and digits (0 to 9). Python does not allow punctuation characters such as @, $, and % within identifiers. Python is a case sensitive programming language. Thus, Manpower and manpower are two different identifiers in Python. Here are naming conventions for Python identifiers
+    * Python Class names start with an uppercase letter. All other identifiers start with a lowercase letter.
+    * Starting an identifier with a single leading underscore indicates that the identifier is private identifier.
+    * Starting an identifier with two leading underscores indicates a strongly private identifier.
+    If the identifier also ends with two trailing underscores, the identifier is a language-defined special name.
+
+Python Reserved Words: The following list shows the Python keywords. These are reserved words and you cannot use them as constant or variable or any other identifier names. All the Python keywords contain lowercase letters only.
+    * and
+    * as
+    * assert
+    * break
+    * class
+    * continue
+    * def
+    * del
+    * elif
+    * else
+    * except
+    * False
+    * finally
+    * for
+    * from
+    * global
+    * if
+    * import
+    * in
+    * is
+    * lambda
+    * None
+    * nonlocal
+    * not
+    * or
+    * pass
+    * raise
+    * return
+    * True
+    * try
+    * while
+    * with
+    * yeld
+
 ## Bibliography
 
 Python - Basic Syntax. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/python_basic_syntax.htm#
