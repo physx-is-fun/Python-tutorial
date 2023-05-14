@@ -50,21 +50,7 @@ Python assignment operators are used to assign values to variables. These operat
     **= (Exponent assigment)
     //= (Floor division assigment)
 
-Bitwise operator works on bits and performs bit by bit operation. Assume if a = 60; and b = 13; Now in the binary format their values will be 0011 1100 and 0000 1101 respectively. Following table lists out the bitwise operators supported by Python language with an example each in those, we use the above two variables (a and b) as operands −
-
-a = 0011 1100
-b = 0000 1101
-
---------------------------
-
-a&b = 12 (0000 1100)
-a|b = 61 (0011 1101)
-a^b = 49 (0011 0001)
-~a  = -61 (1100 0011)
-a << 2 = 240 (1111 0000)
-a>>2 = 15 (0000 1111)
-
-There are following Bitwise operators supported by Python language:
+Bitwise operator works on bits and performs bit by bit operation. There are following Bitwise operators supported by Python language:
 
     & (Binary and - Sets each bit to 1 if both bits are 1)
     | (Binary or - Sets each bit to 1 if one of two bits is 1)
@@ -80,6 +66,13 @@ There are following logical operators supported by Python language.
     and (If both the operands are true then condition becomes true.)
     or (If any of the two operands are non-zero then condition becomes true.)
     not (Used to reverse the logical state of its operand.)
+
+## Python Membership Operators
+
+Python’s membership operators test for membership in a sequence, such as strings, lists, or tuples.
+
+    in (Evaluates to true if it finds a variable in the specified sequence and false otherwise.)
+    not in (Evaluates to true if it does not finds a variable in the specified sequence and false otherwise.)
 
 ## Bibliography
 
