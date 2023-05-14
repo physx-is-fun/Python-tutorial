@@ -37,6 +37,19 @@ Python comparison operators compare the values on either sides of them and decid
     >= (Greater than or equal to)
     <= (Less than or equal to)
 
+## Python Assignment Operators
+
+Python assignment operators are used to assign values to variables. These operators include simple assignment operator, addition assign, subtraction assign, multiplication assign, division and assign operators etc.
+
+    = (Assigment operator)
+    += (Addition assigment)
+    -= (Substraction assigment)
+    *= (Multiplication assigment)
+    /= (Division assigment)
+    %= (Remainder assigment)
+    **= (Exponent assigment)
+    //= (Floor division assigment)
+
 
 
 ## Bibliography

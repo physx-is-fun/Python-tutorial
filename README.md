@@ -28,6 +28,8 @@ Here we can study the basics of programming in Python.
 
 [Comparison operators](comparison.py)
 
+[Assigment operators](assigment.py)
+
 ## Bibliography
 
 Bro Code. (2021.02.15.). Python Full Course for free [Video]. YouTube. https://www.youtube.com/watch?v=XKHEtdqhLK8
