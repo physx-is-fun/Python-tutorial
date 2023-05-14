@@ -73,7 +73,13 @@ There are following Bitwise operators supported by Python language:
     << (Binary left shift - Shift left by pushing zeros in from the right and let the leftmost bits fall off)
     >> (Binary right shift - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off)
 
+## Python Logical Operators
 
+There are following logical operators supported by Python language.
+
+    and (If both the operands are true then condition becomes true.)
+    or (If any of the two operands are non-zero then condition becomes true.)
+    not (Used to reverse the logical state of its operand.)
 
 ## Bibliography
 
