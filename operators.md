@@ -26,6 +26,19 @@ Python arithmetic operators are used to perform mathematical operations on numer
     ** (Exponent)
     // (Floor division)
 
+## Python Comparison Operators
+
+Python comparison operators compare the values on either sides of them and decide the relation among them. They are also called relational operators. These operators are equal, not equal, greater than, less than, greater than or equal to and less than or equal to.
+
+    == (Equal)
+    != (Not equal)
+    > (Greater than)
+    < (Less than)
+    >= (Greater than or equal to)
+    <= (Less than or equal to)
+
+
+
 ## Bibliography
 
 Python - Operators. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/python_operators.htm
