@@ -50,6 +50,29 @@ Python assignment operators are used to assign values to variables. These operat
     **= (Exponent assigment)
     //= (Floor division assigment)
 
+Bitwise operator works on bits and performs bit by bit operation. Assume if a = 60; and b = 13; Now in the binary format their values will be 0011 1100 and 0000 1101 respectively. Following table lists out the bitwise operators supported by Python language with an example each in those, we use the above two variables (a and b) as operands −
+
+a = 0011 1100
+b = 0000 1101
+
+--------------------------
+
+a&b = 12 (0000 1100)
+a|b = 61 (0011 1101)
+a^b = 49 (0011 0001)
+~a  = -61 (1100 0011)
+a << 2 = 240 (1111 0000)
+a>>2 = 15 (0000 1111)
+
+There are following Bitwise operators supported by Python language:
+
+    & (Binary and - Sets each bit to 1 if both bits are 1)
+    | (Binary or - Sets each bit to 1 if one of two bits is 1)
+    ^ (Binary xor - Sets each bit to 1 if only one of two bits is 1)
+    ~ (Binary ones complement - Inverts all the bits)
+    << (Binary left shift - Shift left by pushing zeros in from the right and let the leftmost bits fall off)
+    >> (Binary right shift - Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off)
+
 
 
 ## Bibliography

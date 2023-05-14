@@ -30,6 +30,8 @@ Here we can study the basics of programming in Python.
 
 [Assigment operators](assigment.py)
 
+[Bitwise operators](bitwise.py)
+
 ## Bibliography
 
 Bro Code. (2021.02.15.). Python Full Course for free [Video]. YouTube. https://www.youtube.com/watch?v=XKHEtdqhLK8
