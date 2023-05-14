@@ -39,12 +39,6 @@ We assume that you have Python interpreter path set in PATH variable. Now, let's
 $ python test.py
 ```
 
-This produces the following result:
-
-```console
-Hello, World!
-```
-
 Let us try another way to execute a Python script. Here is the modified test.py file:
 
 ```python
@@ -58,12 +52,6 @@ We assume that you have Python interpreter available in /usr/bin directory. Now,
 ```console
 $ chmod +x test.py     # This is to make file executable
 $./test.py
-```
-
-This produces the following result:
-
-```console
-Hello, World!
 ```
 
 ## Python Identifiers
@@ -175,12 +163,6 @@ A comment is a programmer-readable explanation or annotation in the Python sourc
 print ("Hello, World!") # Second comment
 ```
 
-This produces the following result:
-
-```console
-Hello, World!
-```
-
 Following triple-quoted string is also ignored by Python interpreter and can be used as a multiline comments:
 
 ```python
@@ -188,12 +170,6 @@ Following triple-quoted string is also ignored by Python interpreter and can be 
 This is a multiline
 comment.
 '''
-```
-
-This produces the following result:
-
-```console
-Hello, World!
 ```
 
 ## Using Blank Lines in Python Programs
