@@ -74,6 +74,13 @@ Python’s membership operators test for membership in a sequence, such as strin
     in (Evaluates to true if it finds a variable in the specified sequence and false otherwise.)
     not in (Evaluates to true if it does not finds a variable in the specified sequence and false otherwise.)
 
+## Python Identity Operators
+
+Identity operators compare the memory locations of two objects.
+
+    is (Evaluates to true if the variables on either side of the operator point to the same object and false otherwise.)
+    is not (Evaluates to false if the variables on either side of the operator point to the same object and true otherwise.) 
+
 ## Bibliography
 
 Python - Operators. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/python_operators.htm
