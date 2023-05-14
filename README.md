@@ -12,6 +12,8 @@ Here we can study the basics of programming in Python.
 
 [Data types](datatypes.md)
 
+[Operators](operators.md)
+
 ## Table of contents - source code
 
 [Hello, World!](test.py)
@@ -21,6 +23,8 @@ Here we can study the basics of programming in Python.
 [Variables](variables.py)
 
 [Data types](datatypes.py)
+
+[Arithmetic operators](arithmetic.py)
 
 ## Bibliography
 
