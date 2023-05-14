@@ -10,6 +10,8 @@ Here we can study the basics of programming in Python.
 
 [Variables](variables.md)
 
+[Data types](datatypes.md)
+
 ## Table of contents - source code
 
 [Hello, World!](test.py)
@@ -17,6 +19,8 @@ Here we can study the basics of programming in Python.
 [Comments](comments.py)
 
 [Variables](variables.py)
+
+[Data types](datatypes.py)
 
 ## Bibliography
 
