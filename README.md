@@ -36,6 +36,8 @@ Here we can study the basics of programming in Python.
 
 [Membership operators](membership.py)
 
+[Identity operators](identity.py)
+
 ## Bibliography
 
 Bro Code. (2021.02.15.). Python Full Course for free [Video]. YouTube. https://www.youtube.com/watch?v=XKHEtdqhLK8

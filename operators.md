@@ -81,6 +81,24 @@ Identity operators compare the memory locations of two objects.
     is (Evaluates to true if the variables on either side of the operator point to the same object and false otherwise.)
     is not (Evaluates to false if the variables on either side of the operator point to the same object and true otherwise.) 
 
+## Python Operators Precedence
+
+The following table lists all operators from highest precedence to lowest.
+
+    ** (Exponentiation)
+    ~ + - (Complement, unary plus and minus)
+    * / % // (Multiply, divide, modulo and floor division)
+    + - (Addition and subtraction)
+    >> << (Right and left bitwise shift)
+    & (Bitwise 'AND')
+    ^ | (Bitwise exclusive `OR' and regular `OR')
+    <= < > >= (Comparison operators)
+    <> == != (Equality operators)
+    = %= /= //= -= += *= **= (Assignment operators)
+    is is not (Identity operators)
+    in not in (Membership operators)
+    not or and (Logical operators)
+
 ## Bibliography
 
 Python - Operators. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/python_operators.htm
