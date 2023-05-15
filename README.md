@@ -16,6 +16,8 @@ Here we can study the basics of programming in Python.
 
 [Decision making](decision.md)
 
+[Loops](loops.md)
+
 ## Table of contents - source code
 
 [Hello, World!](test.py)
@@ -45,6 +47,8 @@ Here we can study the basics of programming in Python.
 [If...Else statements](ifelse.py)
 
 [Elif statements](elif.py)
+
+[While loop](while.py)
 
 ## Bibliography
 
