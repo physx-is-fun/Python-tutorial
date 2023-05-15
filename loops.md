@@ -54,6 +54,30 @@ The syntax for a nested while loop statement in Python programming language is a
 
 A final note on loop nesting is that you can put any type of loop inside of any other type of loop.
 
+## Loop Control Statements
+
+Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed. Python supports the following control statements. Click the following links to check their detail. Let us go through the loop control statements briefly.
+
+    break statement (Terminates the loop statement and transfers execution to the statement immediately following the loop.)
+    continue statement (Causes the loop to skip the remainder of its body and immediately retest its condition prior to reiterating.)
+    pass statement (The pass statement in Python is used when a statement is required syntactically but you do not want any command or code to execute.)
+
+## Python break statement
+
+It terminates the current loop and resumes execution at the next statement, just like the traditional break statement in C. The most common use for break is when some external condition is triggered requiring a hasty exit from a loop. The break statement can be used in both while and for loops. If you are using nested loops, the break statement stops the execution of the innermost loop and start executing the next line of code after the block. The syntax for a break statement in Python is as follows:
+
+    break
+
+## Python continue statement
+
+It returns the control to the beginning of the while loop.. The continue statement rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop. The continue statement can be used in both while and for loops. Syntax:
+
+    continue
+
+## Python pass Statement
+
+It is used when a statement is required syntactically but you do not want any command or code to execute. The pass statement is a null operation; nothing happens when it executes.
+
 ## Bibliography
 
 Python - Loops. (2012, June 10). Tutorials Point. Retrieved May 13, 2023, from https://www.tutorialspoint.com/python/python_loops.htm

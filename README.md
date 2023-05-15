@@ -54,6 +54,12 @@ Here we can study the basics of programming in Python.
 
 [Nested loop](nestedloop.py)
 
+[Break statement](break.py)
+
+[Continue statement](continue.py)
+
+[Pass statement](pass.py)
+
 ## Bibliography
 
 Bro Code. (2021.02.15.). Python Full Course for free [Video]. YouTube. https://www.youtube.com/watch?v=XKHEtdqhLK8
