@@ -44,6 +44,8 @@ Here we can study the basics of programming in Python.
 
 [If...Else statements](ifelse.py)
 
+[Elif statements](elif.py)
+
 ## Bibliography
 
 Bro Code. (2021.02.15.). Python Full Course for free [Video]. YouTube. https://www.youtube.com/watch?v=XKHEtdqhLK8

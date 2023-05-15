@@ -24,7 +24,20 @@ An else statement can be combined with an if statement. An else statement contai
     else:
         statement(s)
 
+## The elif Statement
 
+The elif statement allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE. Similar to the else, the elif statement is optional. However, unlike else, for which there can be at most one statement, there can be an arbitrary number of elif statements following an if. Syntax:
+
+    if expression1:
+        statement(s)
+    elif expression2:
+        statement(s)
+    elif expression3:
+        statement(s)
+    else:
+        statement(s)
+
+Core Python does not provide switch or case statements as in other languages, but we can use if..elif...statements to simulate switch case.
 
 ## Bibliography
 
