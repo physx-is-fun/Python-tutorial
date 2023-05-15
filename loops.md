@@ -17,7 +17,42 @@ Here, statement(s) may be a single statement or a block of statements. The condi
 
 ## Using else Statement with While Loop
 
-If the else statement is used with a while loop, the else statement is executed when the condition becomes false. Python supports to have an else statement associated with a loop statement.
+    If the else statement is used with a while loop, the else statement is executed when the condition becomes false. 
+
+Python supports to have an else statement associated with a loop statement.
+
+## Python for Loop Statements
+
+It has the ability to iterate over the items of any sequence, such as a list or a string. Syntax:
+
+    for iterating_var in sequence:
+        statements(s)
+
+If a sequence contains an expression list, it is evaluated first. Then, the first item in the sequence is assigned to the iterating variable iterating_var. Next, the statements block is executed. Each item in the list is assigned to iterating_var, and the statement(s) block is executed until the entire sequence is exhausted.
+
+## Using else Statement with For Loop
+
+Python supports to have an else statement associated with a loop statement.
+
+    If the else statement is used with a for loop, the else statement is executed when the loop has exhausted iterating the list.
+
+## Python nested loops
+
+Python programming language allows to use one loop inside another loop. Following section shows few examples to illustrate the concept.
+
+    for iterating_var in sequence:
+        for iterating_var in sequence:
+            statements(s)
+        statements(s)
+
+The syntax for a nested while loop statement in Python programming language is as follows:
+
+    while expression:
+        while expression:
+            statement(s)
+        statement(s)
+
+A final note on loop nesting is that you can put any type of loop inside of any other type of loop.
 
 ## Bibliography
 

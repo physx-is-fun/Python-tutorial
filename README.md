@@ -48,9 +48,11 @@ Here we can study the basics of programming in Python.
 
 [Elif statements](elif.py)
 
-[While loop](while.py)
+[While loop](whileloop.py)
 
-[Else statement with While loop](whileelse.py)
+[For loop](forloop.py)
+
+[Nested loop](nestedloop.py)
 
 ## Bibliography
 
