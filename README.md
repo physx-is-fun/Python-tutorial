@@ -14,6 +14,8 @@ Here we can study the basics of programming in Python.
 
 [Operators](operators.md)
 
+[Decision making](decision.md)
+
 ## Table of contents - source code
 
 [Hello, World!](test.py)
@@ -37,6 +39,8 @@ Here we can study the basics of programming in Python.
 [Membership operators](membership.py)
 
 [Identity operators](identity.py)
+
+[If statements](if.py)
 
 ## Bibliography
 
